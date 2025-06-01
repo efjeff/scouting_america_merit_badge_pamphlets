@@ -1,3 +1,9 @@
+'''
+    Download Scouts BSA Merit Badge Pamphlets
+    Copyright (C) 2025 Jeff Efros
+    Source: github.com/efjeff/scouting_america_merit_badge_pamphlets
+'''
+
 # %%
 # Imports -- All standard libraries
 import requests as r
